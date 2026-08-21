@@ -56,7 +56,10 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "La La Lost You.m4a",
+        musicUrl: "https://res.cloudinary.com/pxhso0d8/video/upload/v1787281881/La_La_Lost_You.m4a
+
+
+",
         startText: "🎵 Putar Musik",
         stopText: "🔇 Hentikan Musik",
         volume: 0.5
