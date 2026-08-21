@@ -56,7 +56,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "akad.m4a",
+        musicUrl: "La La Lost You.m4a",
         startText: "🎵 Putar Musik",
         stopText: "🔇 Hentikan Musik",
         volume: 0.5
